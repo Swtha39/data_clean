@@ -1,0 +1,8 @@
+brand,year,mileage,selling_price
+Toyota,2015.0,18 kmpl,500000.0
+Honda,2017.0,20 kmpl,600000.0
+Ford,2012.0,15 kmpl,300000.0
+Hyundai,2018.0,22 kmpl,700000.0
+Toyota,2015.0,,500000.0
+Honda,,19 kmpl,650000.0
+,2016.0,17 kmpl,
